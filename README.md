@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning blogging
 - 💞️ I’m looking to collaborate on free theme for blogging
 - 📫 contact t.mt/cryptomata1
+- Blog https://www.jwalagurung.com.np
 
 <!---
 jwalagurung/jwalagurung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
